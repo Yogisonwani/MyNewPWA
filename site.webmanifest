@@ -1,0 +1,23 @@
+   {
+    "name": "CG JOB",
+    "short_name": "CGJOB.IN",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW_xIJ0MySxrMFlVI8NCmwcaqiIMRu_frF0_FwKS0pGKZ4Oqtuq0fPP7FNC1zAsyjAW2wClvwr6Yjzi4u8qwc28ddYKVlXkonv8eayTpfcoww2hQVF_tMJi2voq8ngrdDj5vklRSRAby8iyJFUvfSY_qwQqYg0C-4kZ4W0J3SufjFyb_ldC5GUFfRLAMux/s192/android-chrome-192x192%20(1).png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu-3XHhBeMshtjcrXLEiSnGqLhQZ4YVmBllTsYF_jTmxYkdu7QEdxTHRZ8nTRjDYOCG2PXzGEKKrbjDkGum7cSfngT-YGOikOi4O-2YdVTpCM5dYLhRd1aE6yXAxOwaEObD191ncGS8Op_3JdjpnBJe6Qw6SWNPT93fB7cVRTfyX9B5Y0gr_gL-nY3nJAe/s512/android-chrome-512x512%20(1).png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.cgjob.in"
+}
